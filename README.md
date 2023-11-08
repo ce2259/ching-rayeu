@@ -1,4 +1,4 @@
-# ching-rayeu.github.io
+# ching-rayeu
 Github Pages for Portfolio Hosting
 
 ## BLAH
